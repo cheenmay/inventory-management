@@ -15,7 +15,6 @@
 	flex-direction: column;
 	justify-content: center;
 	color: #fff;
-    padding: 20px;
 }
 .fa-android{
 	font-size:3em;
@@ -84,4 +83,17 @@ form{
     transition: 0.3s;
 }
 
+
+.company__logo img{
+	width: 50%;
+	border-radius: 100px;
+}
+.company__logo{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.footer{
+	text-align: center;
+}
 /* , 0 10px 10px rgba(0,0,0,0.22) */
